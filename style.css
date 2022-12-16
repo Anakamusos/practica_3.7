@@ -2,3 +2,21 @@ header.fondo{
     background-color: bisque;
     text-align: center;
 }
+nav.fondo{
+    background-color: greenyellow;
+    text-align: center;
+}
+section.fondo{
+    background-color: orange;
+}
+article.fondo{
+    display: inline-block;
+}
+footer.fondo{
+    background-color: blue;
+}
+span.span1{
+    background-color: yellow;
+    color: blueviolet;
+    text-align: center;
+}
